@@ -1,5 +1,4 @@
-
-# PRODIGY_DS_03 - Bank Marketing Purchase Prediction
+ Bank Marketing Purchase Prediction
 
 ## 1. Objective
 Build a decision tree classifier to predict whether a customer will purchase a product or service (subscribe to a term deposit) based on their demographic and behavioral data.
